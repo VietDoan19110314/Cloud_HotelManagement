@@ -26,8 +26,9 @@ Ta đặt tên cho môi trường ở mục Name, có thểm thêm mô tả (Des
 
 
 Ở mục Instance type ta chọn m5.large( 8GiB RAM + 2 vCPU) cho có nhiều dung lượng và ở mục Platform chọn Ubuntu Server 18.04 LTS và chọn Next step:
- 
-![Uploading Screenshot 2021-12-13 220611.png…]()
+ ![Screenshot 2021-12-13 220611](https://user-images.githubusercontent.com/92070234/145844635-db0f7a59-f04a-4625-a226-9e1ae27cd673.png)
+
+
 
 Ta để mặc định cho đến cuối cùng ta nhấn Create environment là hoàn tất:
  
